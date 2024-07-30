@@ -1,8 +1,14 @@
-Created by #AKHIL 
-Start development from these most loved games
-Feel free to contribute with improvements and features. Your PRs will be evaluated.
+# Tic Tac Toe
+Created by Akhil 
 
-#Tech stack 
-1. html
-2. css
-3. javascript
+# Tech Stack
+ 1 HTML
+ 2 CSS
+ 3 JAVASCRIPT
+ 
+# Getting Started
+* Clone the repository.
+* open index.html with live server in your browser
+
+# Contributing
+Contributions are always welcome! Please feel free to submit a pull request or open an issue if you find any bugs.</br> 
